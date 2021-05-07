@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TrabalhandoComLayouts">
-        <activity android:name=".LayoutScrollView_Activity"></activity>
+        <activity android:name=".Varios_Layouts_Activity"></activity>
+        <activity android:name=".LayoutScrollView_Activity" />
         <activity android:name=".LayoutFrame_Activity" />
         <activity android:name=".LayoutTable_Activity" />
         <activity android:name=".LayoutRelativo_Activity" />
